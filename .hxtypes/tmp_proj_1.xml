@@ -5601,11 +5601,11 @@
  </haxe_doc>
 	</class>
 	<class path="Main" params="" file="src/Main.hx">
-		<VIEWPORT get="inline" set="null" line="11" static="1"><t path="flash.geom.Rectangle"/></VIEWPORT>
-		<HALF get="inline" set="null" line="12" static="1"><c path="Float"/></HALF>
-		<main public="1" set="method" line="31" static="1"><f a=""><e path="Void"/></f></main>
+		<VIEWPORT get="inline" set="null" line="10" static="1"><t path="flash.geom.Rectangle"/></VIEWPORT>
+		<HALF get="inline" set="null" line="11" static="1"><c path="Float"/></HALF>
+		<main public="1" set="method" line="32" static="1"><f a=""><e path="Void"/></f></main>
 		<root><t path="flash.display.Sprite"/></root>
-		<new public="1" set="method" line="18"><f a=""><e path="Void"/></f></new>
+		<new public="1" set="method" line="17"><f a=""><e path="Void"/></f></new>
 	</class>
 	<class path="Math" params="" file="/usr/lib/haxe/std/Math.hx" extern="1">
 		<PI public="1" set="null" static="1"><c path="Float"/></PI>
