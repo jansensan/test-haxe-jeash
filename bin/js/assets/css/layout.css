@@ -1,0 +1,17 @@
+body {
+	background-color: #f7f7f7;
+	margin: 0;
+	padding: 0;
+}
+
+#canvasWrapper {
+	width: 962px;
+	height: 642px;
+	margin: 24px auto;
+	border: 1px solid #141414;
+}
+
+#haxe\:jeash {
+	width: 960px;
+	height: 640px;
+}

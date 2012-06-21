@@ -1,0 +1,13 @@
+-swf9 bin/swf/main.swf
+-main Main
+-swf-version 10
+-swf-header 960:640:60:cccccc
+-cp src
+
+--next
+
+-js bin/js/assets/js/main.js
+-main Main
+-cp src
+--remap flash:jeash
+-lib jeash
